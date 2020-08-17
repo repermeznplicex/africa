@@ -10,4 +10,4 @@ The whole of Africa can be considered as a vast plateau rising steeply from narr
 ### General considerations
 
 The African continent essentially consists of five ancient Precambrian cratons—Kaapvaal, Zimbabwe, Tanzania, Congo, and West African—that were formed between about 3.6 and 2 billion years ago and that basically have been tectonically stable since that time; those cratons are bounded by younger fold belts formed between 2 billion and 300 million years ago. All of those rocks have been extensively folded and metamorphosed (that is, they have been modified in composition and structure by heat and pressure). Precambrian rock outcrops appear on some 57 percent of the continent’s surface, while the rest of the surface consists of largely undeformed younger sediments and volcanic rocks.
-![Branching]
+![Branching](dhdssadsa.jpg)
